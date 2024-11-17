@@ -76,7 +76,7 @@ Note: Please setup mongodb and change the MongoDB url and set your jwt secret ke
 - 🗃️ **Database:** MongoDB (Atlas Cloud Service)
 - 🔑 **Authentication:** JSON Web Tokens (JWT), Firebase,
 - 🔄 **Version Control:** Git
-- ☁️ **Deployment:** AWS
+- ☁️ **Deployment:** Vercel or other suitable platforms
 
 ## Project Structure
 
